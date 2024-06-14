@@ -8,6 +8,10 @@ first clone the git repo in your local machine.
 
 With use of git bash go to the file where you have saved the git repo file and use this cammond for to run this website in your machine.
 
+than use this cammond 
+== pip install -r dev.txt -- to install all the dependancy and required sowtware to run the website.
+
+than run this two cammond :-
 1 == python manage.py migrate
 
 2 ==  python manage.py runserver 0.0.0.0:8000
