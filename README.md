@@ -12,6 +12,7 @@ than use this cammond
 == pip install -r dev.txt -- to install all the dependancy and required sowtware to run the website.
 
 than run this two cammond :-
+
 1 == python manage.py migrate
 
 2 ==  python manage.py runserver 0.0.0.0:8000
