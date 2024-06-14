@@ -8,7 +8,8 @@ first clone the git repo in your local machine.
 
 With use of git bash go to the file where you have saved the git repo file and use this cammond for to run this website in your machine.
 
-== python manage.py migrate
-==  python manage.py runserver 0.0.0.0:8000
+1 == python manage.py migrate
+
+2 ==  python manage.py runserver 0.0.0.0:8000
 
 Than type on browser search bar localhost:8000 to see the website of readyspace.
